@@ -12,8 +12,8 @@
 
 Console output:
 ```
-a
 b
+a
 ```
 
 ## Watch mode with actual edit compilation:
@@ -34,8 +34,8 @@ ReferenceError: b_1 is not defined
 
 Expected output:
 ```
-a
 b
+a
 ```
 
 
