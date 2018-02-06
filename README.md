@@ -1,4 +1,4 @@
-# tsc -w problem
+# tsc -w version 2.7.1 issue
 
 ## Clone + install
 
@@ -19,7 +19,7 @@ b
 ## Watch mode with actual edit compilation:
 
 1. `npm run watch` (runs `tsc -w`)
-2. do any dummy edit (add comment) in `b.ts`
+2. do any dummy edit (e.g. add comment) in `a.ts`
 3. `node dist/`
 
 Console output:
