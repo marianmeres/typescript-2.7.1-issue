@@ -16,7 +16,7 @@ b
 a
 ```
 
-## Watch mode with actual edit compilation:
+## Watch mode (with actual edit) compilation:
 
 1. `npm run watch` (runs `tsc -w`)
 2. do any dummy edit (e.g. add comment) in `a.ts`
