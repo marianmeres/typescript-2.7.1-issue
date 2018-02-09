@@ -49,5 +49,5 @@ Everything works fine with version 2.6.2
 
 Bug should be fixed in 2.7.2. Related links:
 
-https://github.com/Microsoft/TypeScript/issues/21478
+https://github.com/Microsoft/TypeScript/issues/21478 
 https://github.com/Microsoft/TypeScript/issues/21713
