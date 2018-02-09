@@ -5,7 +5,7 @@
 1. `git clone https://github.com/marianmeres/typescript-2.7.1-issue.git`
 2. `cd typescript-2.7.1-issue && npm install`
 
-## Regular (first run) compilation:
+## OK: Regular (first run) compilation:
 
 1. do `npm run build` (runs `tsc`) or `npm run watch` (runs `tsc -w`)
 2. `node dist/`
@@ -16,7 +16,7 @@ b
 a
 ```
 
-## Watch mode (with actual edit) compilation:
+## BUG: Watch mode (with actual edit) compilation:
 
 1. `npm run watch` (runs `tsc -w`)
 2. do any dummy edit (e.g. add comment) in `a.ts`
